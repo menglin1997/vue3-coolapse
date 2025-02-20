@@ -1,7 +1,7 @@
 # 简介
 一个简易的内容展开收起Vue组件，支持根据内容的改变自动更新组件自身的状态🔨。
 
-![demo](./assets/demo.gif)
+![demo](/assets/demo.gif)
 
 <br>
 
@@ -29,7 +29,7 @@ import Collapse from './components/Collapse.vue' // 文件对应路径
 </collapse>
 ```
 
-![基础用法](./assets/base.gif)
+![基础用法](/assets/base.gif)
 
 <br>
 
@@ -70,7 +70,7 @@ data(){
     }
 }
 ```
-![自定义开关按钮](./assets/customer-controll.gif)
+![自定义开关按钮](/assets/customer-controll.gif)
 
 <br>
 
